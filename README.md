@@ -2,6 +2,8 @@
 
 This 2d platformer is an application of some Game Developement concepts.
 
+Play: https://astrovsmartian.netlify.app/
+
 My motivation was to apply these concepts and create some functional mechanics.
 
 I implemented the A* pathfinding project to get a functioning AI.
